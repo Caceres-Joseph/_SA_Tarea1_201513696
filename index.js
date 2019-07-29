@@ -1,6 +1,17 @@
 var request = require("request");
 
 
+/*
++----------------------------------------
+| Principal
++----------------------------------------
+| Descomentar la linea que se 
+| desea operar ya sea crear los 10 contactos
+| o listar los contactos con filtro de carné
+| debido a que son muchos los contactos 
+| ya registrados
+*/
+
 //crear10Contactos();
 listarContactos();
 
